@@ -25,3 +25,9 @@ Console.WriteLine(result);
 // > HELLO MOHAMMAD JAVAD
 //-------------------------
 ```
+
+### More Resources :
+- https://michaelscodingspot.com/pipeline-pattern-implementations-csharp/
+- https://michaelscodingspot.com/pipeline-pattern-tpl-dataflow/
+- https://www.codeproject.com/Articles/1094513/Pipeline-and-Filters-Pattern-using-Csharp
+- https://www.codeproject.com/Tips/843127/Simple-Pipeline-Implementation-in-Csharp
